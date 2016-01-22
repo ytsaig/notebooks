@@ -1,3 +1,3 @@
 # notebooks
 
-This repo holds some Jupyter notebooks to accompany the blog http://ytsaig.github.io/
+This repo holds Jupyter notebooks to accompany the blog http://ytsaig.github.io/
